@@ -1,7 +1,7 @@
 #  👋 Hi, I’m @fannyyang73
 # 👀 I’m interested in high dimensional statistics and machine learning related topics.
 
-- 📫 You are welcome to reach me at feiyang21@buaa.edu.cn or feiyang@andrew.cmu.edu
+- 📫 You are welcome to reach me at fei.yang-6@postgrad.manchester.ac.uk
 
 <!---
 fannyyang73/fannyyang73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
