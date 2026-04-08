@@ -1,4 +1,4 @@
-#  👋 Hi, I’m @fannyyang73
+#  👋 Hi, I’m Fei.
 # 👀 I’m interested in high dimensional statistics and machine learning related topics.
 
 - 📫 You are welcome to reach me at fei.yang-6@postgrad.manchester.ac.uk
