@@ -1,5 +1,5 @@
 #  👋 Hi, I’m Fei.
-# 👀 I’m interested in high dimensional statistics and machine learning related topics.
+# 👀 I’m interested in simultaneous inference, high-dimensional statistics and machine learning related topics.
 
 - 📫 You are welcome to reach me at fei.yang-6@postgrad.manchester.ac.uk
 
